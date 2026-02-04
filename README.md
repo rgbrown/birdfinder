@@ -23,7 +23,7 @@ This project uses **Generalized Cross-Correlation with Phase Transform (GCC-PHAT
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/rgbrown/birdfinder.git](https://github.com/rgbrown/birdfinder.git)
+   git clone https://github.com/rgbrown/birdfinder.git
    cd birdfinder
    ```
 
